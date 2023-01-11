@@ -2,4 +2,4 @@
 
 My first repository on Github
 
-i love :movies: :cricket:, 
+i love :Tea: :pizza:, and :dance:
