@@ -2,4 +2,4 @@
 
 My first repository on Github
 
-i love :Tea: :pizza:, and :dance:
+i love :Coffee: :pizza:, and :dancer:
